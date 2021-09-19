@@ -1,4 +1,4 @@
-url_buildroot = https://buildroot.org/downloads/buildroot-2017.02.9.tar.gz
+url_buildroot = https://buildroot.org/downloads/buildroot-2021.02.5.tar.gz
 archive_buildroot = buildroot.tar.gz
 system_image = stm32f746g-disco_system.uImage
 dir_download = downloads
